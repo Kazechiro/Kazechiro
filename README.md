@@ -7,7 +7,6 @@
 ## My Name is Kaio Barbosa
 
 - Computer Science Student
-- Actually learning React <img height="24" title="React / React Native" alt="React / React Native" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> &nbsp;
 - Always seeking for knowledge 📚
 
 #### <kbd>Back-end:</kbd><br>
