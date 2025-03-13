@@ -6,7 +6,7 @@
 
 ## My Name is Kaio Barbosa
 
-- Computer Science Student 6/8
+- Computer Science Student 7/8
 - Always seeking for knowledge 📚
 
 #### <kbd>Back-end:</kbd><br>
